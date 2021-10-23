@@ -1,4 +1,0 @@
-numpy
-matplotlib
-tensorflow
-tensorflow_hub
