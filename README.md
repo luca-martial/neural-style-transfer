@@ -10,7 +10,7 @@ Go check out the [app](https://huggingface.co/spaces/luca-martial/neural-style-t
 
 ## Contributing
 
-Any contributions you make are really helpful!
+Any contributions you make are really helpful! 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingContribution`)
